@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuliiamurlina
 - 👀 I’m interested in coding, reading and drawing
-- 🌱 I’m currently learning HTML and CSS, English and logo technologies
+- 🌱 I’m currently learning HTML and CSS, English and Czech
 - 💞️ I’m have a boyfriend
 -
 
